@@ -11,9 +11,9 @@ result = RollDie()
 
 textresult= {
     -4:'this is a -4',
-    -3:'this is a -3',
-    -2:'this is a -2',
-    -1:'this is a -1',
+    -3:'You will top at least 6 buzzfeed articles about massive failure.',
+    -2:'All of the gods and demons of earth are laughing about your failure and death it is totally legendary.',
+    -1:'You failed so hard you died came back to life for a split second and died again.',
     0:'this is a 0',
     1:'this is a 1',
     2:'this is a 2',
