@@ -16,6 +16,9 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 
+from slack.views import RollView
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^roll/', RollView.as_view(), name='roll'),
 ]
