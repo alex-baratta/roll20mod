@@ -8,6 +8,6 @@ from .models import HelloSlackAdapter
 
 
 class RollView(View):
-    def get(self, request, *args, **kwargs):
+    def post(self, request, *args, **kwargs):
         return HelloSlackAdapter().respond_to_hello()
 
