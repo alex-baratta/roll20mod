@@ -1,5 +1,7 @@
 List of d 20 results
 
+result < -3 = eve you cannot even remotely count your level of failure. you are totally fucked.
+
 -3 - You will top at least 6 buzz feed articles about massive failure.
 
 -2 - All of the gods and demons of earth are laughing about your failure and death it is totally legendary.
@@ -16,4 +18,44 @@ List of d 20 results
 
 4 - There was a glimmer of a chance that you could pass this but that was quickly dashed.
 
-5 - 
+5 - You stumble and trip up a few times in your attempt, falling flat on your face.
+
+6 - Your form is good and the possiblity of success seems plausable but still so far from actualization.
+
+7 - Your attempt is valiant yet still in vain.
+
+8 - So close yet still so far. you fail.
+
+9 - everything goes your way and everything looks good but you messed up somewhere.
+
+10 - You made it by the absolute skin of your teeth.
+
+11 - You succeed but just barely.
+
+12 - Dont pat yourself on the back but you succeed.
+
+13 - You arn't a failure.
+
+14 - It's ok to be satisfied with your success.
+
+15 - This feels easy to you.
+
+16 - Take pride in your success you have done well.
+
+17 - You are the best around, nothings gonna ever keep you down.
+
+18 - Hot diggitty dog you nailed it.
+
+19 - Wow way to go you are a real winner.
+
+20 - You Deserve a medal for how great this worked out for you.
+
+21 - What a champion. people will talk about seeing this happen some day
+
+22 - The Gods are impressed with how amazing you have done.
+
+23 - Success is now named after you, you beautiful bastard
+
+24 - This is the most impressive amazing thing that has happened on this planet.
+
+if results > 24  = you have trancended time and space with your fucking amazingness.
