@@ -25,7 +25,7 @@ SECRET_KEY = 'y(5dj6(yqebz+_1*ps0w%5_s+zfg*wc+#xf3(7em$229+n*8va'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dotateamfinder.com']
 
 
 # Application definition
